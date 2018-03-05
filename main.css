@@ -1,0 +1,14 @@
+a:hover {
+    cursor: url('images/cursor.png'), auto;
+}
+
+html {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    cursor: url('images/cursor.png'), auto;
+    font-weight: strong;
+    font-size: 20px;
+}
+
+a {
+    color: green;
+}
