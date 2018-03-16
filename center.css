@@ -1,7 +1,7 @@
 html {
     background: url('images/gifs/microfab.gif');
     color: yellow;
-} 
+}
 
 marquee {
   animation: blinker 1s linear infinite;
